@@ -50,7 +50,7 @@ With hands-on experience in **Python, SQL, Airflow, dbt, Spark, Snowflake, and G
 
 🔗 [LinkedIn](http://linkedin.com/in/stanley-mbah)  
 📂 [GitHub](http://github.com/StanMest)  
-💻 [Portfolio Projects](#)  
+💻 [Portfolio Projects](https://www.datacamp.com/portfolio/stanmest77)  
 
 ---
 

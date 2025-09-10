@@ -25,7 +25,7 @@ With hands-on experience in **Python, SQL, Airflow, dbt, Spark, Snowflake, and G
 
 ## 📌 Featured Projects  
 
-🔹 [**ETL E-commerce Pipeline with Airflow**](#) – Orchestrated a batch ETL pipeline that ingests raw sales data, transforms it with Python, and loads into PostgreSQL.  
+🔹 [**ETL E-commerce Pipeline with Airflow**](https://github.com/Stanmest/etl_olist_airflow) – Orchestrated a batch ETL pipeline that ingests raw sales data, transforms it with Python, and loads into PostgreSQL.  
 🔹 [**NYC Taxi Data Warehouse with dbt + BigQuery**](#) – Designed a star schema, built dbt models, and created analytics dashboards.  
 🔹 [**IoT Streaming Pipeline with Kafka + Spark**](#) – Built a real-time streaming data pipeline processing IoT sensor events.  
 🔹 [**Cloud Lakehouse Project**](#) – Deployed an AWS S3 + Glue + Redshift lakehouse with automated Airflow DAGs.  
